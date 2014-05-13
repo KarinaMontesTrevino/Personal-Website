@@ -1,0 +1,14 @@
+<VirtualHost *:80>
+
+    # host/domain name for server
+    ServerName      mywebsite.dev
+
+    # path to public directory
+    DocumentRoot    /vagrant/personalwebsite/mywebsite.dev/public
+
+    # allow custom directives in htaccess
+    <Directory /vagrant/personalwebsite/mywebsite.dev/public>
+        AllowOverride All
+    </Directory>
+
+</VirtualHost>
