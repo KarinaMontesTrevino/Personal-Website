@@ -39,18 +39,18 @@
 				<!---start-da-slider----->
 				<div id="da-slider" class="da-slider">
 					<div class="da-slide">
-						<h2>Web Developer</h2>
-						<p>Lorem ipsum is simply dummy text of the printing</p>
+						<h2>Web Development</h2>
+						<p>Front-end and Back-end development.</p>
 						<a href="#" class="da-link"><span> READ NOW</span></a>
 					</div>
 					<div class="da-slide">
-						<h2>Designer & maker</h2>
-						<p>Lorem ipsum is simply dummy text of the printing</p>
+						<h2>Cyber Security</h2>
+						<p>Security Assessments.</p>
 						<a href="#" class="da-link"><span> READ NOW</span></a>
 					</div>
 					<div class="da-slide">
-						<h2>Designer & maker</h2>
-						<p>Lorem ipsum is simply dummy text of the printing</p>
+						<h2>Information Technology</h2>
+						<p>Learning all kinds of technologies to satisfy the market needs.</p>
 						<a href="#" class="da-link"><span> READ NOW</span></a>
 					</div>
 					<nav class="da-arrows">
@@ -142,19 +142,19 @@
 				</div>
 				<div class="group_2_text2">
 					<div class="desc">
-						<h3>client</h3>
-						<h4>Apple</h4>
+						<h3>Team</h3>
+						<h4>Grace Faubion, Karina Montes-Trevino and Mike Tamburo</h4>
 					</div>
 					<div class="desc">
 						<h3>Role in project</h3>
-						<h4>Designer Lead</h4>
+						<h4>Front and back-end developer</h4>
 					</div>
 					<div class="desc">
 						<h3>project included</h3>
-						<h4>Mobile and web interface</h4>
+						<h4>Twilio, Stripe, Twitter Bootstrap, Laravel MVC, MySLQ, etc.</h4>
 					</div>
 					<div class="button_2">
-						<a href="#">Browser</a>
+						<a href="http://spotspy.us">Browser</a>
 					</div>
 				</div>
 					<div class="clear"> </div>
@@ -170,16 +170,16 @@
 				</div>
 				<div class="group_2_text2">
 					<div class="desc">
-						<h3>client</h3>
-						<h4>Lorem ipsum dolor</h4>
+						<h3>Developed at Codeup</h3>
+						<h4>Exercise in class.</h4>
 					</div>
 					<div class="desc">
 						<h3>Role in project</h3>
-						<h4>Designer Lead</h4>
+						<h4>Web developer</h4>
 					</div>
 					<div class="desc">
 						<h3>project included</h3>
-						<h4>Responsive Mobile Website Templates </h4>
+						<h4>HTML5, CSS3 and Twitter Bootstrap. </h4>
 					</div>
 					<div class="button_2">
 						<a href="#">Browser</a>
@@ -198,16 +198,16 @@
 				</div>
 				<div class="group_2_text2">
 					<div class="desc">
-						<h3>client</h3>
-						<h4>Apple</h4>
+						<h3>Codeup</h3>
+						<h4>App that keeps track of daily activities that need to be completed.</h4>
 					</div>
 					<div class="desc">
 						<h3>Role in project</h3>
-						<h4>Designer Lead</h4>
+						<h4>Web Developer</h4>
 					</div>
 					<div class="desc">
 						<h3>project included</h3>
-						<h4>Developing games in Android Mobiles</h4>
+						<h4>Uploading and handling files, Javascript, HTML5 and CSS3.</h4>
 					</div>
 					<div class="button_2">
 						<a href="#">Browser</a>
@@ -226,16 +226,16 @@
 				</div>
 				<div class="group_2_text2">
 					<div class="desc">
-						<h3>client</h3>
-						<h4>Apple</h4>
+						<h3>Codeup</h3>
+						<h4>This is part of the project for National Parks.</h4>
 					</div>
 					<div class="desc">
 						<h3>Role in project</h3>
-						<h4>Designer Lead</h4>
+						<h4>Web Developer</h4>
 					</div>
 					<div class="desc">
 						<h3>project included</h3>
-						<h4>Developing games in Android Mobiles</h4>
+						<h4>Twitter news feed, Javascript, jQuery, HTML5 and CSS3. </h4>
 					</div>
 					<div class="button_2">
 						<a href="#">Browser</a>
@@ -310,29 +310,29 @@
 					<div  class="wrap">
 					<div class="row-content1">
 						<h3 class="heading">Skills</h3>
-						<p class="para">I am an experienced and passionate user interface designer with interaction design background.<br>My goal is to make the world wide web a better place by designing beautiful user experiences, one site at a time.</p>
-						<div class="chart" data-percent="73" data-bar-color="#35AFBA" data-animate="4000">
+						<p class="para">I am an experienced and passionate web developer. <br>My goal is improve daily tasks to make things easy on the user.</p>
+						<div class="chart" data-percent="90" data-bar-color="#35AFBA" data-animate="4000">
 							<div class="chart-content">
 								<div class="percent"></div>
-								<div class="chart-title">User Interface</div>
+								<div class="chart-title">HTML</div>
 							</div><!-- chart-content -->
 						</div><!-- chart -->
 						<div class="chart" data-percent="85" data-bar-color="#FF6060" data-animate="2500">
 							<div class="chart-content">
 								<div class="percent"></div>
-								<div class="chart-title">Front-end</div>
+								<div class="chart-title">CSS</div>
 							</div><!-- chart-content -->
 						</div><!-- chart -->
 						<div class="chart" data-percent="70" data-bar-color="#3AD079" data-animate="3000">
 							<div class="chart-content">
 								<div class="percent"></div>
-								<div class="chart-title">User Experience</div>
+								<div class="chart-title">PHP</div>
 							</div><!-- chart-content -->
 						</div><!-- chart -->
-						<div class="chart" data-percent="40" data-bar-color="#58C0E3" data-animate="3500">
+						<div class="chart" data-percent="50" data-bar-color="#58C0E3" data-animate="3500">
 							<div class="chart-content">
 								<div class="percent"></div>
-								<div class="chart-title">User Experience</div>
+								<div class="chart-title">Javascript</div>
 							</div><!-- chart-content -->
 						</div><!-- chart -->
 						<div class="clear"> </div>
@@ -348,7 +348,7 @@
 				<section class="row section">
 					<div class="row-content2">
 						<div class="timeline-label column six">
-							<h4>Work experience</h4>
+							<h4>Training and Education</h4>
 							<p>Specialties : Front-end development, Back-end development, Network Security, Computer Troubleshooting, Database Management, etc.</p>
 							<div class="brows_button_4">
 								<a href="http://www.linkedin.com/in/karinamontestrevino">View on Linkedin</a>
@@ -356,44 +356,44 @@
 						</div><!-- timeline-label -->		
 						<div class="timeline column six last">
 							<div class="year">
-								<time datetime="2013">2013</time>
+								<time datetime="2014">2014</time>
 								<div class="experience">
 									<span class="circle"></span>
-									<div class="experience-img"><img src="../web/images/asset01.jpg" alt=""></div>
+									<div class="experience-img"><img src="../web/images/lamp-stack.jpg" alt=""></div>
 									<div class="experience-info clear-after">
 										<h5>Facebook</h5>
-										<div class="role">UI/UX Designer</div>
-										<p>October 2013 – November 2013 (2 months)Menlo Park, CA, United States of America</p>
+										<div class="role">Web Developer</div>
+										<p>February 2014 – I am an available full-time web developer, if you need one please contact me!</p>
 									</div><!-- experience-info -->
 								</div><!-- experience -->
 								<div class="experience">
 									<span class="circle"></span>
-									<div class="experience-img"><img src="../web/images/asset02.jpg" alt=""></div>
+									<div class="experience-img"><img src="../web/images/logo2.png" alt=""></div>
 									<div class="experience-info clear-after">
-										<h5>Amazon</h5>
-										<div class="role">UI/UX Designer</div>
-										<p>October 2013 – November 2013 (2 months)Menlo Park, CA, United States of America</p>
+										<h5>Codeup</h5>
+										<div class="role">Student</div>
+										<p>February 2014 – April 2014 (3 months) San Antonio, TX, United States of America. Programming bootcamp specialized in web development.</p>
 									</div><!-- experience-info -->
 								</div><!-- experience -->								
 							</div><!-- year -->
 							<div class="year year1">
-								<time datetime="2012">2012</time>
+								<time datetime="2013">2013</time>
 								<div class="experience">
 									<span class="circle"></span>
-									<div class="experience-img"><img src="../web/images/asset03.jpg" alt=""></div>
+									<div class="experience-img"><img src="../web/images/utsa.jpg" alt=""></div>
 									<div class="experience-info clear-after">
-										<h5>Apple</h5>
-										<div class="role">UI/UX Designer</div>
-										<p>October 2013 – November 2013 (2 months)Menlo Park, CA, United States of America</p>
+										<h5>UTSA</h5>
+										<div class="role">Student</div>
+										<p>August 2008- December 2013 Graduated in Informations Systems Management with honors (Magna Cum Laude)</p>
 									</div><!-- experience-info -->
 								</div><!-- experience -->
 								<div class="experience">
 									<span class="circle"></span>
-									<div class="experience-img"><img src="../web/images/asset04.jpg" alt=""></div>
+									<div class="experience-img"><img src="../web/images/utsa.jpg" alt=""></div>
 									<div class="experience-info clear-after">
-										<h5>IBM</h5>
-										<div class="role">UI/UX Designer</div>
-										<p>October 2013 – November 2013 (2 months)Menlo Park, CA, United States of America</p>
+										<h5>UTSA</h5>
+										<div class="role">Student</div>
+										<p>August 2008- December 2013 Graduated in Infrastucture Assurance with honors (Magna Cum Laude)</p>
 									</div><!-- experience-info -->
 								</div><!-- experience -->								
 							</div><!-- year -->							
@@ -413,8 +413,8 @@
 										<img src="../web/images/kimslider.jpg" alt="">
 									</div>
 									<div class="group_1_text group_3_text">
-										<h3> Adedayo Saheed</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+										<h3> Karina Montes-Trevino</h3>
+										<p>My goal is to improve tasks we do day by day.</p>
 									</div>
 										<div class="clear"> </div>
 								 </div>
@@ -425,8 +425,8 @@
 										<img src="../web/images/me.jpg" alt="">
 									</div>
 									<div class="group_1_text group_3_text">
-										<h3>Narate Ketram</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+										<h3>Karina Montes-Trevino</h3>
+										<p>I have experience with as a full-stack web developer, using Linux, Apache, MySQL and PHP.</p>
 									</div>
 										<div class="clear"> </div>
 								 </div>
@@ -437,8 +437,8 @@
 										<img src="../web/images/me.jpg" alt="">
 									</div>
 									<div class="group_1_text group_3_text">
-										<h3>Adrian Thomas</h3>
-										<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
+										<h3>Karina Montes-Trevino</h3>
+										<p>I was born in Mexico, I came to USA when I was 18 years old. I double majored in Information Systems Managament and Infrastructure Assurance and graduated with Honors from UTSA.</p>
 									</div>
 										<div class="clear"> </div>
 								 </div>
